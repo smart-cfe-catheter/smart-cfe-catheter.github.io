@@ -1,5 +1,3 @@
-# termlab.github.io
-
 ## Project setup
 ```
 npm install

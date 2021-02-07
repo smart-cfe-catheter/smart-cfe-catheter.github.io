@@ -64,3 +64,11 @@ export default {
   }),
 };
 </script>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+.v-application {
+  font-family: 'Crimson Text', sans-serif !important;
+ }
+</style>
